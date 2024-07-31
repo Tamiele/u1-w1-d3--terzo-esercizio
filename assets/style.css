@@ -28,6 +28,22 @@ main div img {
   color: grey;
   margin-top: 0%;
 }
+nav {
+  border-left: solid thin #ffd877;
+}
+nav h4 {
+  color: #b5460f;
+  margin-bottom: 0;
+}
+main a {
+  color: #157979;
+}
 main h3 {
   border-bottom: solid thin #c4f3f2;
+}
+footer {
+  margin-inline: 50vh;
+}
+footer p a {
+  color: #157979;
 }

@@ -1,6 +1,3 @@
-body {
-}
-
 header {
   text-align: center;
 }
@@ -11,22 +8,29 @@ header p {
   background-color: rgb(253, 251, 241);
   border-top: solid thin #ffd877;
   color: #004d4c;
+  padding: 1%;
 }
 header span {
   font-weight: bold;
 }
+h1 {
+  text-align: center;
+  padding-inline: 5%;
+}
 
 main {
-  margin-inline: 50vh;
+  margin-inline: auto;
+  width: 700px;
 }
 main div img {
   text-align: center;
   border-radius: 2%;
+  width: 100%;
 }
 .sottotitolo {
   text-align: center;
   color: grey;
-  margin-top: 0%;
+  margin-top: 2%;
 }
 nav {
   border-left: solid thin #ffd877;
@@ -34,15 +38,19 @@ nav {
 nav h4 {
   color: #b5460f;
   margin-bottom: 0;
+  margin-left: 2%;
 }
 main a {
   color: #157979;
+  margin-left: 2%;
 }
 main h3 {
   border-bottom: solid thin #c4f3f2;
+  padding-bottom: 3%;
 }
 footer {
-  margin-inline: 50vh;
+  margin-inline: auto;
+  width: 700px;
 }
 footer p a {
   color: #157979;

@@ -1,0 +1,33 @@
+body {
+}
+
+header {
+  text-align: center;
+}
+header img {
+  height: 80px;
+}
+header p {
+  background-color: rgb(253, 251, 241);
+  border-top: solid thin #ffd877;
+  color: #004d4c;
+}
+header span {
+  font-weight: bold;
+}
+
+main {
+  margin-inline: 50vh;
+}
+main div img {
+  text-align: center;
+  border-radius: 2%;
+}
+.sottotitolo {
+  text-align: center;
+  color: grey;
+  margin-top: 0%;
+}
+main h3 {
+  border-bottom: solid thin #c4f3f2;
+}

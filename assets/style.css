@@ -32,6 +32,9 @@ main div img {
   color: grey;
   margin-top: 2%;
 }
+li {
+  margin-block: 2%;
+}
 nav {
   border-left: solid thin #ffd877;
 }

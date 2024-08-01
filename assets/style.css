@@ -25,8 +25,9 @@ main {
 }
 main div img {
   text-align: center;
-  border-radius: 2%;
+  border-radius: 10px;
   width: 100%;
+  box-shadow: 8px 8px 8px #dfd9d9;
 }
 .sottotitolo {
   text-align: center;
